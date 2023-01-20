@@ -6,7 +6,6 @@ import com.market.apimarket.persistence.crud.ProductoCrudRepository;
 import com.market.apimarket.persistence.entity.Producto;
 import com.market.apimarket.persistence.mapper.ProductMapper;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
